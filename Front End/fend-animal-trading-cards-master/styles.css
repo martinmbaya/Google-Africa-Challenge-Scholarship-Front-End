@@ -1,0 +1,13 @@
+#fact{
+	font-style: italic;
+}
+.items{
+	font-weight: bold;
+}
+.borders{
+	padding: 1em;
+	border: 0.05rem solid;
+}
+.mylist{
+	list-style-type: none;
+}
